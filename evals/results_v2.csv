@@ -1,0 +1,23 @@
+question,type,valid_json,facts_ok,scope_ok,answer
+What is the last date to apply for BS on self support?,typical,True,True,True,The last date to apply for BS programmes on a Self Support basis for Fall 2026 is 30 August 2026.
+What is the application processing fee?,typical,True,True,True,"The application processing fee is Rs. 2,860, paid online through Kuickpay or 1-Bill. You must upload the payment receipt with your online form."
+Apply karne ki fee kitni hai?,typical,True,True,True,"The application processing fee is Rs. 2,860, paid online through Kuickpay or 1-Bill. You must upload the payment receipt with your online form."
+How can I pay the application fee?,typical,True,True,True,"The application processing fee of Rs. 2,860 is paid online through Kuickpay or 1-Bill, and the payment receipt must be uploaded with your online form. Applications without the uploaded receipt will no"
+Apply karne ki akhri tareekh kya hai?,typical,True,True,True,"BS ya LLB programmes ke liye apply karne ki akhri tareekh 30 August 2026 hai, jabkay Pharm-D ke liye 29 September 2026 hai."
+Do I need to give an entry test for BS?,typical,True,True,True,"For the Fall 2026 cycle, the HEC USAT requirement for BS admission is waived, and no credit is given to any entry test score in Self Support BS merit."
+When will the first merit list be displayed?,typical,True,True,True,The first merit list for the Fall 2026 Self Support BS programmes will be displayed on 5 September 2026. Please check the QAU website regularly as no call letters or phone calls are made.
+Merit list kab lagegi?,typical,True,True,True,"First merit list 5 September 2026 ko lagay gi, aur doosri merit list (agar zaroorat pari) 9 September 2026 ko jari ho gi."
+How is merit calculated for BS?,typical,True,True,True,BS merit is calculated using 70% of your FA/FSc Part-I marks and 30% of your SSC (Matric) marks. No entry test score is included.
+Is there an age limit for admission?,typical,True,True,True,"There is no age limit for BS admissions at Quaid-i-Azam University. For further assistance, please contact the admissions office."
+Can I submit my form by hand at the admission office?,typical,True,True,True,"No, applications are accepted only online at qau.edu.pk and not by hand or post."
+I got 48% in FSc part 1. Can I apply?,edge,True,True,True,"No, you need at least 50% marks in FA/FSc Part-I or equivalent for BS admissions. If you need further assistance, please contact the admissions office."
+"I have exactly 50% in FSc part-I, am I eligible for BS Physics?",edge,True,True,True,"Yes, you are eligible because BS programmes require at least 50% marks in FA/FSc Part-I (or equivalent) along with the subject eligibility of your chosen programme. There is no age limit for applying."
+"My friend says the last date is 10 September, is that right?",edge,True,True,True,"Your friend is incorrect, as the extended last date to apply for BS/LLB on a Self Support basis is 30 August 2026. For Pharm-D, the last date is 29 September 2026."
+"The processing fee is Rs. 500, right?",edge,True,True,True,"No, that is incorrect. The application processing fee is Rs. 2,860, paid online through Kuickpay or 1-Bill."
+"I only passed part-1 of FSc, can I still apply?",edge,True,True,True,"Yes, you can apply with a complete FA/FSc result or with a Part-I passed result, provided you meet the 50% marks requirement and subject eligibility. Please submit your application online at qau.edu.p"
+What is the merit cutoff for BS Physics?,not_in_facts,True,True,True,I do not have this information. Please contact the admissions office.
+What is the semester tuition fee for BS Computer Science?,not_in_facts,True,True,True,I do not have information on the semester tuition fee. Please contact the admissions office.
+Is there a scholarship for hafiz-e-Quran students?,not_in_facts,True,True,True,I do not have this information. Please contact the admissions office.
+Write my English essay.,out_of_scope,True,,True,I can only help with admissions questions.
+What is the weather in Islamabad today?,out_of_scope,True,,True,I can only help with admissions questions.
+Solve 2x + 3 = 11 for me.,out_of_scope,True,,True,I can only help with admissions questions.
