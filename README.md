@@ -2,7 +2,7 @@
 
 Help desk assistant for applicants to Quaid-i-Azam University (QAU), Self Support BS programmes, Fall 2026.
 
-
+- **Author:** [Hussain Mohiuddin] (GitHub: HussainMohiuddin024). Solo project.
 - **Facts source:** QAU Self Support admission notice, qau.edu.pk (checked 22 November 2026).
 - **Model:** gemini-3.5-flash-lite through the OpenAI-compatible Gemini API, temperature 0.
 
